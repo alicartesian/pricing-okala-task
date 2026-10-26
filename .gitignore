@@ -12,4 +12,5 @@ wheels/
 # Reproducible feature matrices and target artifacts
 data/*
 !data/candidate_dataset.parquet
+!data/PricingDataScienceTask.docx
 tests/
